@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-
+/*YA cree la wea Dorian XD*/
 namespace Batalla_Pokemon
 {
     class Batalla
